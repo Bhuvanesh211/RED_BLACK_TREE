@@ -59,17 +59,17 @@ The code is structured into three files:
    ```bash
    gcc *.c -o red_black_tree
 
-./red_black_tree
+   ./red_black_tree
 
-1. Insert
-2. Delete
-3. Search
-4. Find Min
-5. Delete Min
-6. Find Max
-7. Delete Max
-8. Display Tree
-9. Inorder Traversal
-0. Exit
-Enter your choice: 1
-Enter value to insert: 15
+    1. Insert
+    2. Delete
+    3. Search
+    4. Find Min
+    5. Delete Min
+    6. Find Max
+    7. Delete Max
+    8. Display Tree
+    9. Inorder Traversal
+    0. Exit
+    Enter your choice: 1
+    Enter value to insert: 15
